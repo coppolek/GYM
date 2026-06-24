@@ -1,0 +1,6 @@
+{
+  "name": "Move Smart Train Well",
+  "description": "Home Fitness Coach guides users through home workouts with video explanations, timers, and AI-powered movement correction.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
